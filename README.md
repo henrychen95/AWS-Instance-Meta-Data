@@ -1,4 +1,4 @@
-AWS_Instance_Meta_Data
+AWS-Instance-Meta-Data
 ======================
 
 Display AWS Instance Meta Data
